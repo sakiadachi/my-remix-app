@@ -1,0 +1,8 @@
+{
+  "editor.formatOnSave": true, 
+  "editor.defaultFormatter": "EditorConfig.EditorConfig",
+  "editor.formatOnSaveMode": "file",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+}
